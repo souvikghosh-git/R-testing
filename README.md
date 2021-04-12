@@ -12,8 +12,8 @@ Data Zip File Location: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/g
 
 Goal | Item | Link to Item
 --- | --- | ---
-Analysis R Script |  run_analysis.R |  [R Script Link]
-Tidy Data Set |  Clean Data Set |  [Data Set Link]
-Github Repo | Repo |  [Repo Link]
-Cookbook | CodeBook.md |  [Repo Link]
-README | ReadingItNow |  [Repo Link]
+Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/souvikghosh-git/datasciencecoursera/blob/master/run-analysis.R "run_analysis.R")
+Tidy Data Set |  Clean Data Set |  [Data Set Link](https://github.com/souvikghosh-git/datasciencecoursera/blob/master/tidyData.txt "Tidy Data Set "tidyData.txt")
+Github Repo | Repo |  [Repo Link](https://github.com/souvikghosh-git/datasciencecoursera "Git Repo")
+Codebook | CodeBook.md |  [Repo Link](https://github.com/souvikghosh-git/datasciencecoursera/blob/master/CodeBook.md "CodeBook.md")
+README | ReadingItNow |  [Repo Link](https://github.com/souvikghosh-git/datasciencecoursera/blob/master/README.md "README.md")
